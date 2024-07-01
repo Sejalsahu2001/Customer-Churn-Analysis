@@ -10,19 +10,19 @@ This Power BI dashboard provides a comprehensive analysis of customer churn, hig
 
 # Visualizations
 
-Churn Over Tenure:
-- A line graph displaying the churn rate over the customer tenure period.
+## Churn Over Tenure:
+A line graph displaying the churn rate over the customer tenure period.
 
-Churn by Dependents:
+## Churn by Dependents:
 Bar charts comparing churn rates between customers with and without dependents.
 
-Churn by Gender:
+## Churn by Gender:
 Bar charts comparing churn rates between male and female customers.
 
-Churn by Partner Status:
+## Churn by Partner Status:
 Bar charts comparing churn rates between customers with and without partners.
 
-Churn by Senior Citizen Status:
+## Churn by Senior Citizen Status:
 Bar charts comparing churn rates between senior citizens and non-senior citizens.
 
 # Insights
